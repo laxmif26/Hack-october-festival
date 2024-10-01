@@ -98,7 +98,7 @@ Hacktoberfest runs from **October 1 to October 31, 2024**.
 ### 🌟 Top Contributors
 
 <p align="center">
-  <a href="https://github.com/fineanmol/Hack-october-festival/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=fineanmol/Hack-october-festival" />
+  <a href="https://github.com/parthasarathy27/Hack-october-festival/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=parthasarathy27/Hack-october-fest" />
   </a>
 </p>
