@@ -20,13 +20,13 @@ Welcome to our project! We appreciate your interest and contributions. Please re
    - Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/parthasarathy27/Hacktoberfest2024.git
+   git clone https://github.com/parthasarathy27/Hack-october-festival.git
    ```
 
 3. **Navigate to the Project Directory:**
 
    ```bash
-   cd Hacktoberfest2024
+   cd Hack-october-festival
    ```
 
 4. **Create a New Branch:**
@@ -64,7 +64,7 @@ To keep your fork up-to-date with the main repository and avoid conflicts:
 1. **Add Upstream Remote:**
 
    ```bash
-   git remote add upstream https://github.com/parthasarathy27/Hacktoberfest2024
+   git remote add upstream https://github.com/parthasarathy27/Hack-october-festival
    ```
 
 2. **Verify the New Remote:**
