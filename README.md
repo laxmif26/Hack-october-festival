@@ -4,9 +4,7 @@
 
 Welcome to the **Hack-october-festival 2024**! We are thrilled to have you here. This beginner-friendly project aims to help you kickstart your journey into open source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/). 
 
-✨ **[Live Website]()** 
-
-🚀 **New Repository for PRs:** [Hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+🚀 **New Repository for PRs:** [Hacktoberfest](https://github.com/parthasarathy27/Hack-october-festival)
 
 ### 💡 Why Contribute?
 
