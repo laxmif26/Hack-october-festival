@@ -215,4 +215,4 @@ $(".tdnn").click(function () {
 // Display live stats with the dynamic year
 document.getElementById(
   "stats"
-).innerHTML = `You guys are awesome, we have again passed the GitHub rate limit this hour. <a href="https://github.com/fineanmol/Hacktoberfest${currentYear}" target="_blank">Here</a> is a link to check out our repo's live stats.`;
+).innerHTML = `You guys are awesome, we have again passed the GitHub rate limit this hour. <a href="https://github.com/parthasarathy27/Hack-october-festival${currentYear}" target="_blank">Here</a> is a link to check out our repo's live stats.`;
