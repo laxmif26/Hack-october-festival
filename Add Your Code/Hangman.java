@@ -1,6 +1,3 @@
-
-//Handles updating the ASCII Hangman image, checking how many lives are left and ending the game if 0
-
 public class Hangman 
 {
 	private int lives = 6;
