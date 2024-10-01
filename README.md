@@ -1,131 +1,104 @@
-## Hacktoberfest-2024
+# 🎉 Hack-october-festival 2024
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest). We are merging all PRs there.
+## 🌐 Join the Fun!
 
-In this current repo, there are a lot of conflicts; we are not merging until all conflicts are resolved. Hacktoberfest { [Live Website]() }
+Welcome to the **Hack-october-festival 2024**! We are thrilled to have you here. This beginner-friendly project aims to help you kickstart your journey into open source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/). 
 
-**This is a beginner-friendly project to help you get started with your [Hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below and read the contribution rules. Happy Learning <3 💙 !!**
+✨ **[Live Website]()** 
 
-P.S. Star ⭐ and share this repository if you had fun!! 😍
+🚀 **New Repository for PRs:** [Hacktoberfest](https://github.com/fineanmol/hacktoberfest)
 
-Hacktoberfest 2024
-![Event Completed](/scripts/Event_Completed_.png)
+### 💡 Why Contribute?
 
-# 📌 Videos 📽️:
+- **Learn:** Get hands-on experience with Git and GitHub.
+- **Grow:** Build your portfolio and learn from others.
+- **Earn Swag:** Submit 4 accepted pull requests to earn a limited-edition Hacktoberfest t-shirt and stickers!
 
-- [Hacktoberfest Intro]()
-- [How to pull request [Overview]]()
-- [Merge Conflict / comment]()
+![Event Completed](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F921d54eylj7aoghxyc4x.png) <!-- Update image URL -->
 
-# Contribution Rules📚:
+## 📽️ Video Tutorials
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps, e.g., npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly, or stupid, big or small, as long as it works
-<!-- - Add your name to the contributorsList file. -->
-- Try to keep pull requests small to minimize merge conflicts
+- [Hacktoberfest Introduction]()
+- [How to Create a Pull Request]()
+- [Resolving Merge Conflicts]()
 
-## Getting Started 🤩🤗:
+## 📚 Contribution Guidelines
 
-- Fork this repo (button on top)
-- Clone it on your local machine
+- Feel free to submit PRs that break the rules; we’ll merge them anyway!
+- **Do NOT** add any build steps (e.g., npm install); we want to keep this simple and static.
+- **Do NOT** remove existing content.
+- Your code can be as stylish or quirky as you want, as long as it works!
+- Keep your PRs small to minimize merge conflicts.
 
-```terminal
-git clone https://github.com/parthasarathy27/Hacktoberfest2024.git
-```
+## 🚀 Getting Started
 
-- Navigate to the project directory.
+1. **Fork this Repository** (click the button at the top)
+2. **Clone it Locally:**
 
-```terminal
-cd Hacktoberfest2024
-```
+   ```bash
+   git clone https://github.com/parthasarathy27/Hack-october-festival.git
+   cd Hack-october-festival
+   ```
 
-- Create a new branch
+3. **Create a New Branch:**
 
-```markdown
-git checkout -b my-new-branch
-```
+   ```bash
+   git checkout -b my-new-branch
+   ```
 
-<!--- - Add your name to `contributors/contributorsList.js`. -->
+4. **Make Your Changes and Stage Them:**
 
-```markdown
-git add .
-```
+   ```bash
+   git add .
+   ```
 
-- Commit your changes.
+5. **Commit Your Changes:**
 
-```markdown
-git commit -m "Relevant message"
-```
+   ```bash
+   git commit -m "Your descriptive message"
+   ```
 
-- Then push
+6. **Push to Your Branch:**
 
-```markdown
-git push origin my-new-branch
-```
+   ```bash
+   git push origin my-new-branch
+   ```
 
-- Create a new pull request from your forked repository
+7. **Create a Pull Request** from your forked repository.
 
-<br>
+## 🚧 Avoiding Merge Conflicts
 
-## Avoid Conflicts {Syncing your fork}
+To minimize conflicts:
 
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
+1. **Set Up an Upstream Remote:**
 
-```terminal
-git remote add upstream https://github.com/parthasarathy27/Hacktoberfest2024
-```
+   ```bash
+   git remote add upstream https://github.com/parthasarathy27/Hack-october-festival
+   ```
 
-You can verify that the new remote has been added by typing:
+2. **Pull Latest Changes:**
 
-```terminal
-git remote -v
-```
+   ```bash
+   git merge upstream/main
+   ```
 
-To pull any new changes from your parent repo, simply run:
+For more details, check out [GitHub's guide on syncing forks](https://help.github.com/articles/syncing-a-fork/).
 
-```terminal
-git merge upstream/master
-```
+## ❓ FAQs
 
-This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+- **Who can contribute?** Anyone with a GitHub account signed up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!
+- **Is this paid?** No, this is a labor of love and community spirit.
+- **Who are the organizers?** We are Anmol and Ritesh, passionate programmers from India, dedicated to fostering open source contributions.
+- **How to track your progress?** Visit [Hacktoberfest Profile](https://hacktoberfest.digitalocean.com/profile/).
 
-For more information on syncing forks, [read this article from GitHub](https://help.github.com/articles/syncing-a-fork/).
+## 🎊 Event Duration
 
-## Swags of Hacktoberfest:
+Hacktoberfest runs from **October 1 to October 31, 2024**.
 
-Many candidates get attracted to Hacktoberfest for the swags. After 4 successfully merged pull requests, as of 2024, you will be eligible to get a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+### 🌟 Top Contributors
 
-<li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="t-shirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
-</b></li>
-
-# FAQs (Frequently Asked Questions)
-
-- Who all can contribute?
-  - Anyone with a GitHub account and who is signed up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
-- Are you getting paid for this?
-  - Sadly, no. But we think we should. This is 100% unofficial, and we do it for fun, fame, and glory.
-- Who are you, and why are you doing this?
-  - We are two programmers from India, [Anmol](https://www.linkedin.com/in/fineanmol/) and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-- Why are you not using DigitalOcean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
-- Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
-  - Nope.
-- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024?
-  - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2024?
-  - [Go to:](https://hacktoberfest.digitalocean.com/profile/). (Check out your own stats at the top right)
-- What is the duration of Hacktoberfest 2024?
-  - It is from 1st October to 31st October 2024.
-- What is the event for?
-  - For open source community engagement and to learn how to contribute to open source.
-
-###### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3*
-<br>
-
-## Our Top Contributors 
-
-<p align="center"><a href="https://github.com/fineanmol/Hacktoberfest2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fineanmol/Hacktoberfest2024" max={1000} columns={100} anon={1}/>
-</a></p>
+<p align="center">
+  <a href="https://github.com/fineanmol/Hack-october-festival/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=fineanmol/Hack-october-festival" />
+  </a>
+</p>
